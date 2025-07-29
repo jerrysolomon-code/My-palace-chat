@@ -1,0 +1,24 @@
+{
+  "name": "palace---chat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrysolomon-code/My-palace-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrysolomon-code/My-palace-chat/issues"
+  },
+  "homepage": "https://github.com/jerrysolomon-code/My-palace-chat#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
